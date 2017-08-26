@@ -1,1669 +1,732 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>archiveVersion</key>
-	<string>1</string>
-	<key>classes</key>
-	<dict/>
-	<key>objectVersion</key>
-	<string>46</string>
-	<key>objects</key>
-	<dict>
-		<key>0E7291F6555B2EB6F661CBBE1EEB797D</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.script.sh</string>
-			<key>path</key>
-			<string>Pods-MZCroppableView_Example-frameworks.sh</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>10DE1947DAC0ED28F6C0A9F9BD75D546</key>
-		<dict>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>CLANG_CXX_LANGUAGE_STANDARD</key>
-				<string>gnu++0x</string>
-				<key>CLANG_CXX_LIBRARY</key>
-				<string>libc++</string>
-				<key>CLANG_ENABLE_MODULES</key>
-				<string>YES</string>
-				<key>CLANG_ENABLE_OBJC_ARC</key>
-				<string>YES</string>
-				<key>CLANG_WARN_BOOL_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_CONSTANT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_DIRECT_OBJC_ISA_USAGE</key>
-				<string>YES</string>
-				<key>CLANG_WARN_EMPTY_BODY</key>
-				<string>YES</string>
-				<key>CLANG_WARN_ENUM_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_INT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_OBJC_ROOT_CLASS</key>
-				<string>YES</string>
-				<key>CLANG_WARN_UNREACHABLE_CODE</key>
-				<string>YES</string>
-				<key>CLANG_WARN__DUPLICATE_METHOD_MATCH</key>
-				<string>YES</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>YES</string>
-				<key>ENABLE_NS_ASSERTIONS</key>
-				<string>NO</string>
-				<key>GCC_C_LANGUAGE_STANDARD</key>
-				<string>gnu99</string>
-				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
-				<array>
-					<string>RELEASE=1</string>
-				</array>
-				<key>GCC_WARN_64_TO_32_BIT_CONVERSION</key>
-				<string>YES</string>
-				<key>GCC_WARN_ABOUT_RETURN_TYPE</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNDECLARED_SELECTOR</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNINITIALIZED_AUTOS</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_FUNCTION</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_VARIABLE</key>
-				<string>YES</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.3</string>
-				<key>STRIP_INSTALLED_PRODUCT</key>
-				<string>NO</string>
-				<key>SYMROOT</key>
-				<string>${SRCROOT}/../build</string>
-				<key>VALIDATE_PRODUCT</key>
-				<string>YES</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>18340F12838DEE43507667CC74401EB1</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>6E7E5AF37923BFA48D6994B9BFC6535F</string>
-				<string>C3B7BDF5CE5CB8F095FE12DA55D9A9BB</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>iOS</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>1B43F8EC5D062FDB8816D737283139C6</key>
-		<dict>
-			<key>fileRef</key>
-			<string>C3B7BDF5CE5CB8F095FE12DA55D9A9BB</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>1B55B2DD7BF514A839E81B551D5D8A58</key>
-		<dict>
-			<key>containerPortal</key>
-			<string>D41D8CD98F00B204E9800998ECF8427E</string>
-			<key>isa</key>
-			<string>PBXContainerItemProxy</string>
-			<key>proxyType</key>
-			<string>1</string>
-			<key>remoteGlobalIDString</key>
-			<string>9C3F0233A73E8C4C72DB195448364B1A</string>
-			<key>remoteInfo</key>
-			<string>MZCroppableView</string>
-		</dict>
-		<key>235018DCA3245A821866011D47069384</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>UIBezierPath-MZPoints.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>23F7B7F83C7E7659EB3C6AC863D0B48F</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>A090ADE077533C3C273957AD7F6948D1</string>
-				<string>6F57841883D1F1662AD4F7300EBB8CFC</string>
-				<string>E185032356DA6E2DD628D9F91207696E</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Products</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>24D53167D03E79B32E4BFE09CDE4DB96</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>F47A0FADD8D5C4F84F76804B7831C530</string>
-			</array>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>28CFBB2E38BDA53B940498FF3DF1B434</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>2F3239167A86F4FD02997465FAB02839</string>
-				<string>4243B7756CA3E3E76176A8FAE4D7154A</string>
-				<string>453DE7214A68C24B367498733E4FE0D1</string>
-				<string>BB98CF8364179060B05DB1CCECB22F50</string>
-				<string>AEC35FEECF6A8559BB3657A0989C24B5</string>
-				<string>0E7291F6555B2EB6F661CBBE1EEB797D</string>
-				<string>8DC7872A1117AA9429CC16EC66886C1A</string>
-				<string>96F90D6618FC9A88D8CD442C7AD3D26D</string>
-				<string>C0C48DB30D45B8202F14C59153279BE6</string>
-				<string>347DD69E8A223F1110CF96A1C863D76E</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Pods-MZCroppableView_Example</string>
-			<key>path</key>
-			<string>Target Support Files/Pods-MZCroppableView_Example</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>2ACB5E547AC32B8B6D5B49667205F082</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>C2FF16879BFB81759B8854A56750D127</string>
-			</array>
-			<key>isa</key>
-			<string>PBXHeadersBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>2ACD60ED1E485B7FCABE98D37AF4E31C</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>77BE99DB5EC550DEE82D1CA2BD493379</string>
-				<string>B06EA5441ED471930417DCE161C351FA</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>2D8E8EC45A3A1A1D94AE762CB5028504</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>552D02D5BA751AC2E8790D2811D496CA</string>
-				<string>10DE1947DAC0ED28F6C0A9F9BD75D546</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>2F3239167A86F4FD02997465FAB02839</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
-			<key>path</key>
-			<string>Info.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>305354A484160B050AE229F6387AC14C</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>Pods-MZCroppableView_Tests.release.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>30590BCF75F98F9025B25360593D42A6</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>C0C48DB30D45B8202F14C59153279BE6</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string>iPhone Developer</string>
-				<key>CURRENT_PROJECT_VERSION</key>
-				<string>1</string>
-				<key>DEFINES_MODULE</key>
-				<string>YES</string>
-				<key>DYLIB_COMPATIBILITY_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_CURRENT_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_INSTALL_NAME_BASE</key>
-				<string>@rpath</string>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>INFOPLIST_FILE</key>
-				<string>Target Support Files/Pods-MZCroppableView_Example/Info.plist</string>
-				<key>INSTALL_PATH</key>
-				<string>$(LOCAL_LIBRARY_DIR)/Frameworks</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.3</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<array>
-					<string>$(inherited)</string>
-					<string>@executable_path/Frameworks</string>
-					<string>@loader_path/Frameworks</string>
-				</array>
-				<key>MACH_O_TYPE</key>
-				<string>staticlib</string>
-				<key>MODULEMAP_FILE</key>
-				<string>Target Support Files/Pods-MZCroppableView_Example/Pods-MZCroppableView_Example.modulemap</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>YES</string>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>OTHER_LIBTOOLFLAGS</key>
-				<string></string>
-				<key>PODS_ROOT</key>
-				<string>$(SRCROOT)</string>
-				<key>PRODUCT_NAME</key>
-				<string>Pods_MZCroppableView_Example</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>TARGETED_DEVICE_FAMILY</key>
-				<string>1,2</string>
-				<key>VERSIONING_SYSTEM</key>
-				<string>apple-generic</string>
-				<key>VERSION_INFO_PREFIX</key>
-				<string></string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>30A5E5404CCF86ED3A035DF2F9B96331</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>74B14F7A2BA0DEE98D99481E7C5C933A</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string>iPhone Developer</string>
-				<key>CURRENT_PROJECT_VERSION</key>
-				<string>1</string>
-				<key>DEFINES_MODULE</key>
-				<string>YES</string>
-				<key>DYLIB_COMPATIBILITY_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_CURRENT_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_INSTALL_NAME_BASE</key>
-				<string>@rpath</string>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>GCC_PREFIX_HEADER</key>
-				<string>Target Support Files/MZCroppableView/MZCroppableView-prefix.pch</string>
-				<key>INFOPLIST_FILE</key>
-				<string>Target Support Files/MZCroppableView/Info.plist</string>
-				<key>INSTALL_PATH</key>
-				<string>$(LOCAL_LIBRARY_DIR)/Frameworks</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.3</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<array>
-					<string>$(inherited)</string>
-					<string>@executable_path/Frameworks</string>
-					<string>@loader_path/Frameworks</string>
-				</array>
-				<key>MODULEMAP_FILE</key>
-				<string>Target Support Files/MZCroppableView/MZCroppableView.modulemap</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>NO</string>
-				<key>PRODUCT_NAME</key>
-				<string>MZCroppableView</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>TARGETED_DEVICE_FAMILY</key>
-				<string>1,2</string>
-				<key>VERSIONING_SYSTEM</key>
-				<string>apple-generic</string>
-				<key>VERSION_INFO_PREFIX</key>
-				<string></string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>347DD69E8A223F1110CF96A1C863D76E</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>Pods-MZCroppableView_Example.release.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>37CE4F9F941A8C8CD4C1D2B506BCA5B7</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>MZCroppableView-dummy.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>3C0CB1A37CFEAC388EC6B9888DEA5982</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>Pods-MZCroppableView_Tests.modulemap</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>3F38244F91DEFA6903B699C15FCB9BB1</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>68195977760C03D307FE4408BA7EEAC8</string>
-			</array>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>3FAE87325654F5C026582E4B6A5106BA</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>MZCroppableView-prefix.pch</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>4243B7756CA3E3E76176A8FAE4D7154A</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>Pods-MZCroppableView_Example.modulemap</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>42F899D3C6424EB59016A19CD968CAB3</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>EA6E59F1CEE3EF7D246DFB068F323837</string>
-				<string>72EE4F3126F26A027D5B454A67316330</string>
-				<string>C928F7898221506DD947C2A900E3761B</string>
-				<string>235018DCA3245A821866011D47069384</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Classes</string>
-			<key>path</key>
-			<string>Classes</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>433CD3331B6C3787F473C941B61FC68F</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>18340F12838DEE43507667CC74401EB1</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Frameworks</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>453DE7214A68C24B367498733E4FE0D1</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text</string>
-			<key>path</key>
-			<string>Pods-MZCroppableView_Example-acknowledgements.markdown</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>463CB890D86986F1A66E1E50D7C8EB3C</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
-			<key>path</key>
-			<string>Info.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>48E0E681EA37BECAB706484235812625</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>B3E2BB9404B6BE0B264034BC7677C3E7</string>
-			<key>buildPhases</key>
-			<array>
-				<string>796ADB062BCF9CCFD8A9523946938797</string>
-				<string>3F38244F91DEFA6903B699C15FCB9BB1</string>
-				<string>BDF5A53DB0D1A3788ED1675EEDEB4028</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array>
-				<string>FAA1CB35A757793C1C153DA0804DE5C1</string>
-			</array>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>Pods-MZCroppableView_Example</string>
-			<key>productName</key>
-			<string>Pods-MZCroppableView_Example</string>
-			<key>productReference</key>
-			<string>6F57841883D1F1662AD4F7300EBB8CFC</string>
-			<key>productType</key>
-			<string>com.apple.product-type.framework</string>
-		</dict>
-		<key>516488646E206272DE32BDD2032A3BA8</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXTargetDependency</string>
-			<key>name</key>
-			<string>MZCroppableView</string>
-			<key>target</key>
-			<string>9C3F0233A73E8C4C72DB195448364B1A</string>
-			<key>targetProxy</key>
-			<string>1B55B2DD7BF514A839E81B551D5D8A58</string>
-		</dict>
-		<key>552D02D5BA751AC2E8790D2811D496CA</key>
-		<dict>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>CLANG_CXX_LANGUAGE_STANDARD</key>
-				<string>gnu++0x</string>
-				<key>CLANG_CXX_LIBRARY</key>
-				<string>libc++</string>
-				<key>CLANG_ENABLE_MODULES</key>
-				<string>YES</string>
-				<key>CLANG_ENABLE_OBJC_ARC</key>
-				<string>YES</string>
-				<key>CLANG_WARN_BOOL_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_CONSTANT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_DIRECT_OBJC_ISA_USAGE</key>
-				<string>YES</string>
-				<key>CLANG_WARN_EMPTY_BODY</key>
-				<string>YES</string>
-				<key>CLANG_WARN_ENUM_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_INT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_OBJC_ROOT_CLASS</key>
-				<string>YES</string>
-				<key>CLANG_WARN_UNREACHABLE_CODE</key>
-				<string>YES</string>
-				<key>CLANG_WARN__DUPLICATE_METHOD_MATCH</key>
-				<string>YES</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>NO</string>
-				<key>GCC_C_LANGUAGE_STANDARD</key>
-				<string>gnu99</string>
-				<key>GCC_DYNAMIC_NO_PIC</key>
-				<string>NO</string>
-				<key>GCC_OPTIMIZATION_LEVEL</key>
-				<string>0</string>
-				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
-				<array>
-					<string>DEBUG=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>GCC_SYMBOLS_PRIVATE_EXTERN</key>
-				<string>NO</string>
-				<key>GCC_WARN_64_TO_32_BIT_CONVERSION</key>
-				<string>YES</string>
-				<key>GCC_WARN_ABOUT_RETURN_TYPE</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNDECLARED_SELECTOR</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNINITIALIZED_AUTOS</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_FUNCTION</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_VARIABLE</key>
-				<string>YES</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.3</string>
-				<key>ONLY_ACTIVE_ARCH</key>
-				<string>YES</string>
-				<key>STRIP_INSTALLED_PRODUCT</key>
-				<string>NO</string>
-				<key>SYMROOT</key>
-				<string>${SRCROOT}/../build</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>58ABED42281CF7BA118A135A40279775</key>
-		<dict>
-			<key>fileRef</key>
-			<string>AEC35FEECF6A8559BB3657A0989C24B5</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>5FFE1B6088D8004469E3D41E33EB9077</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>Pods-MZCroppableView_Tests-umbrella.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>68195977760C03D307FE4408BA7EEAC8</key>
-		<dict>
-			<key>fileRef</key>
-			<string>6E7E5AF37923BFA48D6994B9BFC6535F</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>6E0A120994EF38C17FC7BFBCD4A443E7</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>MZCroppableView.modulemap</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6E7E5AF37923BFA48D6994B9BFC6535F</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
-			<key>name</key>
-			<string>Foundation.framework</string>
-			<key>path</key>
-			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.0.sdk/System/Library/Frameworks/Foundation.framework</string>
-			<key>sourceTree</key>
-			<string>DEVELOPER_DIR</string>
-		</dict>
-		<key>6F57841883D1F1662AD4F7300EBB8CFC</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>wrapper.framework</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>Pods_MZCroppableView_Example.framework</string>
-			<key>path</key>
-			<string>Pods_MZCroppableView_Example.framework</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>6FD46A35146872407E9110AF985EA7C2</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>2ACD60ED1E485B7FCABE98D37AF4E31C</string>
-			<key>buildPhases</key>
-			<array>
-				<string>24D53167D03E79B32E4BFE09CDE4DB96</string>
-				<string>E4D9C1261CCBFCD3626A92500EC67CAC</string>
-				<string>2ACB5E547AC32B8B6D5B49667205F082</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array>
-				<string>516488646E206272DE32BDD2032A3BA8</string>
-			</array>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>Pods-MZCroppableView_Tests</string>
-			<key>productName</key>
-			<string>Pods-MZCroppableView_Tests</string>
-			<key>productReference</key>
-			<string>E185032356DA6E2DD628D9F91207696E</string>
-			<key>productType</key>
-			<string>com.apple.product-type.framework</string>
-		</dict>
-		<key>712BEB7CCA097B8B14E473FC7A3DCFA7</key>
-		<dict>
-			<key>fileRef</key>
-			<string>37CE4F9F941A8C8CD4C1D2B506BCA5B7</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>72EE4F3126F26A027D5B454A67316330</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>MZCroppableView.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>74B14F7A2BA0DEE98D99481E7C5C933A</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>MZCroppableView.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>77BE99DB5EC550DEE82D1CA2BD493379</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>7EFCE6D3373E7928457D8730FD875D60</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string>iPhone Developer</string>
-				<key>CURRENT_PROJECT_VERSION</key>
-				<string>1</string>
-				<key>DEFINES_MODULE</key>
-				<string>YES</string>
-				<key>DYLIB_COMPATIBILITY_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_CURRENT_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_INSTALL_NAME_BASE</key>
-				<string>@rpath</string>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>INFOPLIST_FILE</key>
-				<string>Target Support Files/Pods-MZCroppableView_Tests/Info.plist</string>
-				<key>INSTALL_PATH</key>
-				<string>$(LOCAL_LIBRARY_DIR)/Frameworks</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.3</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<array>
-					<string>$(inherited)</string>
-					<string>@executable_path/Frameworks</string>
-					<string>@loader_path/Frameworks</string>
-				</array>
-				<key>MACH_O_TYPE</key>
-				<string>staticlib</string>
-				<key>MODULEMAP_FILE</key>
-				<string>Target Support Files/Pods-MZCroppableView_Tests/Pods-MZCroppableView_Tests.modulemap</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>YES</string>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>OTHER_LIBTOOLFLAGS</key>
-				<string></string>
-				<key>PODS_ROOT</key>
-				<string>$(SRCROOT)</string>
-				<key>PRODUCT_NAME</key>
-				<string>Pods_MZCroppableView_Tests</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>TARGETED_DEVICE_FAMILY</key>
-				<string>1,2</string>
-				<key>VERSIONING_SYSTEM</key>
-				<string>apple-generic</string>
-				<key>VERSION_INFO_PREFIX</key>
-				<string></string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>786B339617CB67B70C88DCB5AC39B9BB</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.script.sh</string>
-			<key>path</key>
-			<string>Pods-MZCroppableView_Tests-frameworks.sh</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>796ADB062BCF9CCFD8A9523946938797</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>58ABED42281CF7BA118A135A40279775</string>
-			</array>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>7DB346D0F39D3F0E887471402A8071AB</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>BA6428E9F66FD5A23C0A2E06ED26CD2F</string>
-				<string>9E12EEF71C37269BD7D27C2649CDE071</string>
-				<string>433CD3331B6C3787F473C941B61FC68F</string>
-				<string>23F7B7F83C7E7659EB3C6AC863D0B48F</string>
-				<string>D7BF4C322B7C741C75BA605AE8A52E75</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>7EFCE6D3373E7928457D8730FD875D60</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>Pods-MZCroppableView_Tests.debug.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>830007436ED4D6CB53E0947A2575DDAF</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>DA7438DDEA385F943802C73B6E408927</string>
-				<string>1B43F8EC5D062FDB8816D737283139C6</string>
-			</array>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>83E2994BB413DCC3F5DC7745D81D4F2F</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>463CB890D86986F1A66E1E50D7C8EB3C</string>
-				<string>3C0CB1A37CFEAC388EC6B9888DEA5982</string>
-				<string>911204785A91FF8C9E8D65A5E476BF47</string>
-				<string>9A2C3BBAAB6899A78C1F2D6D6C92A91C</string>
-				<string>C8D5C944514AFCFFB3DBB739A66536C5</string>
-				<string>786B339617CB67B70C88DCB5AC39B9BB</string>
-				<string>EFD8E95164C68280BA82DF21936A27B6</string>
-				<string>5FFE1B6088D8004469E3D41E33EB9077</string>
-				<string>7EFCE6D3373E7928457D8730FD875D60</string>
-				<string>305354A484160B050AE229F6387AC14C</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Pods-MZCroppableView_Tests</string>
-			<key>path</key>
-			<string>Target Support Files/Pods-MZCroppableView_Tests</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>8DC7872A1117AA9429CC16EC66886C1A</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.script.sh</string>
-			<key>path</key>
-			<string>Pods-MZCroppableView_Example-resources.sh</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>8EACCC9EEBD0009CEED550705D97DFB2</key>
-		<dict>
-			<key>containerPortal</key>
-			<string>D41D8CD98F00B204E9800998ECF8427E</string>
-			<key>isa</key>
-			<string>PBXContainerItemProxy</string>
-			<key>proxyType</key>
-			<string>1</string>
-			<key>remoteGlobalIDString</key>
-			<string>9C3F0233A73E8C4C72DB195448364B1A</string>
-			<key>remoteInfo</key>
-			<string>MZCroppableView</string>
-		</dict>
-		<key>911204785A91FF8C9E8D65A5E476BF47</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text</string>
-			<key>path</key>
-			<string>Pods-MZCroppableView_Tests-acknowledgements.markdown</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>9218474743C52AFE1A64A4086F5DB738</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>74B14F7A2BA0DEE98D99481E7C5C933A</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string>iPhone Developer</string>
-				<key>CURRENT_PROJECT_VERSION</key>
-				<string>1</string>
-				<key>DEFINES_MODULE</key>
-				<string>YES</string>
-				<key>DYLIB_COMPATIBILITY_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_CURRENT_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_INSTALL_NAME_BASE</key>
-				<string>@rpath</string>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>GCC_PREFIX_HEADER</key>
-				<string>Target Support Files/MZCroppableView/MZCroppableView-prefix.pch</string>
-				<key>INFOPLIST_FILE</key>
-				<string>Target Support Files/MZCroppableView/Info.plist</string>
-				<key>INSTALL_PATH</key>
-				<string>$(LOCAL_LIBRARY_DIR)/Frameworks</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.3</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<array>
-					<string>$(inherited)</string>
-					<string>@executable_path/Frameworks</string>
-					<string>@loader_path/Frameworks</string>
-				</array>
-				<key>MODULEMAP_FILE</key>
-				<string>Target Support Files/MZCroppableView/MZCroppableView.modulemap</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>YES</string>
-				<key>PRODUCT_NAME</key>
-				<string>MZCroppableView</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>TARGETED_DEVICE_FAMILY</key>
-				<string>1,2</string>
-				<key>VERSIONING_SYSTEM</key>
-				<string>apple-generic</string>
-				<key>VERSION_INFO_PREFIX</key>
-				<string></string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>96F90D6618FC9A88D8CD442C7AD3D26D</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>Pods-MZCroppableView_Example-umbrella.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>99F9EC5FB9EE598EEE7C894259969611</key>
-		<dict>
-			<key>fileRef</key>
-			<string>EA6E59F1CEE3EF7D246DFB068F323837</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>9A2C3BBAAB6899A78C1F2D6D6C92A91C</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
-			<key>path</key>
-			<string>Pods-MZCroppableView_Tests-acknowledgements.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>9B4E603E20A54C241A85F86AD42F1BBB</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>9218474743C52AFE1A64A4086F5DB738</string>
-				<string>30A5E5404CCF86ED3A035DF2F9B96331</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>9C3F0233A73E8C4C72DB195448364B1A</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>9B4E603E20A54C241A85F86AD42F1BBB</string>
-			<key>buildPhases</key>
-			<array>
-				<string>9F41BF16D46A6DAE10723E8A25E1BFE8</string>
-				<string>830007436ED4D6CB53E0947A2575DDAF</string>
-				<string>C95673A0B0180F04890B22217DD1D512</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>MZCroppableView</string>
-			<key>productName</key>
-			<string>MZCroppableView</string>
-			<key>productReference</key>
-			<string>A090ADE077533C3C273957AD7F6948D1</string>
-			<key>productType</key>
-			<string>com.apple.product-type.framework</string>
-		</dict>
-		<key>9E12EEF71C37269BD7D27C2649CDE071</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>B81902544ACFDCEBB353A325F41355B1</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Development Pods</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>9F41BF16D46A6DAE10723E8A25E1BFE8</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>712BEB7CCA097B8B14E473FC7A3DCFA7</string>
-				<string>A832E46FE15E63B54168BE609BEF01D0</string>
-				<string>E32AD3AA270BE533EC2B212851A47A88</string>
-			</array>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>A090ADE077533C3C273957AD7F6948D1</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>wrapper.framework</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>MZCroppableView.framework</string>
-			<key>path</key>
-			<string>MZCroppableView.framework</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>A832E46FE15E63B54168BE609BEF01D0</key>
-		<dict>
-			<key>fileRef</key>
-			<string>72EE4F3126F26A027D5B454A67316330</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>AEC35FEECF6A8559BB3657A0989C24B5</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>Pods-MZCroppableView_Example-dummy.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>B06EA5441ED471930417DCE161C351FA</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>305354A484160B050AE229F6387AC14C</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string>iPhone Developer</string>
-				<key>CURRENT_PROJECT_VERSION</key>
-				<string>1</string>
-				<key>DEFINES_MODULE</key>
-				<string>YES</string>
-				<key>DYLIB_COMPATIBILITY_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_CURRENT_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_INSTALL_NAME_BASE</key>
-				<string>@rpath</string>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>INFOPLIST_FILE</key>
-				<string>Target Support Files/Pods-MZCroppableView_Tests/Info.plist</string>
-				<key>INSTALL_PATH</key>
-				<string>$(LOCAL_LIBRARY_DIR)/Frameworks</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.3</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<array>
-					<string>$(inherited)</string>
-					<string>@executable_path/Frameworks</string>
-					<string>@loader_path/Frameworks</string>
-				</array>
-				<key>MACH_O_TYPE</key>
-				<string>staticlib</string>
-				<key>MODULEMAP_FILE</key>
-				<string>Target Support Files/Pods-MZCroppableView_Tests/Pods-MZCroppableView_Tests.modulemap</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>NO</string>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>OTHER_LIBTOOLFLAGS</key>
-				<string></string>
-				<key>PODS_ROOT</key>
-				<string>$(SRCROOT)</string>
-				<key>PRODUCT_NAME</key>
-				<string>Pods_MZCroppableView_Tests</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>TARGETED_DEVICE_FAMILY</key>
-				<string>1,2</string>
-				<key>VERSIONING_SYSTEM</key>
-				<string>apple-generic</string>
-				<key>VERSION_INFO_PREFIX</key>
-				<string></string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>B3E2BB9404B6BE0B264034BC7677C3E7</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>30590BCF75F98F9025B25360593D42A6</string>
-				<string>F74967903D7A005A62830A703694A03B</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>B68F1116DA816987B8DCFBF7B3F7CA91</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>MZCroppableView-umbrella.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>B81902544ACFDCEBB353A325F41355B1</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>F929F37A475B5834819CE9C4C73452F9</string>
-				<string>CC1E56E8A62A40501085B8CE80F0DC31</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>MZCroppableView</string>
-			<key>path</key>
-			<string>../..</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>BA6428E9F66FD5A23C0A2E06ED26CD2F</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text</string>
-			<key>name</key>
-			<string>Podfile</string>
-			<key>path</key>
-			<string>../Podfile</string>
-			<key>sourceTree</key>
-			<string>SOURCE_ROOT</string>
-			<key>xcLanguageSpecificationIdentifier</key>
-			<string>xcode.lang.ruby</string>
-		</dict>
-		<key>BB98CF8364179060B05DB1CCECB22F50</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
-			<key>path</key>
-			<string>Pods-MZCroppableView_Example-acknowledgements.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>BDF5A53DB0D1A3788ED1675EEDEB4028</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>F64B8B7189CBE6028FBEA56C90AC539B</string>
-			</array>
-			<key>isa</key>
-			<string>PBXHeadersBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>C0C48DB30D45B8202F14C59153279BE6</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>Pods-MZCroppableView_Example.debug.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>C2FF16879BFB81759B8854A56750D127</key>
-		<dict>
-			<key>fileRef</key>
-			<string>5FFE1B6088D8004469E3D41E33EB9077</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>C3B7BDF5CE5CB8F095FE12DA55D9A9BB</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
-			<key>name</key>
-			<string>UIKit.framework</string>
-			<key>path</key>
-			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.0.sdk/System/Library/Frameworks/UIKit.framework</string>
-			<key>sourceTree</key>
-			<string>DEVELOPER_DIR</string>
-		</dict>
-		<key>C853CF32F52A78284BD0F72231C08F16</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
-			<key>path</key>
-			<string>Info.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>C8D5C944514AFCFFB3DBB739A66536C5</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>Pods-MZCroppableView_Tests-dummy.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>C928F7898221506DD947C2A900E3761B</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>UIBezierPath-MZPoints.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>C95673A0B0180F04890B22217DD1D512</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>D50754682BA998C6003BA689422B13BF</string>
-				<string>99F9EC5FB9EE598EEE7C894259969611</string>
-				<string>D7501D5AF8E67300A4089632FCC0D6FB</string>
-			</array>
-			<key>isa</key>
-			<string>PBXHeadersBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>CC1E56E8A62A40501085B8CE80F0DC31</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>C853CF32F52A78284BD0F72231C08F16</string>
-				<string>6E0A120994EF38C17FC7BFBCD4A443E7</string>
-				<string>74B14F7A2BA0DEE98D99481E7C5C933A</string>
-				<string>37CE4F9F941A8C8CD4C1D2B506BCA5B7</string>
-				<string>3FAE87325654F5C026582E4B6A5106BA</string>
-				<string>B68F1116DA816987B8DCFBF7B3F7CA91</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Support Files</string>
-			<key>path</key>
-			<string>Example/Pods/Target Support Files/MZCroppableView</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>CF578533DF09BBB5233C77F7203A70E1</key>
-		<dict>
-			<key>fileRef</key>
-			<string>6E7E5AF37923BFA48D6994B9BFC6535F</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>D41D8CD98F00B204E9800998ECF8427E</key>
-		<dict>
-			<key>attributes</key>
-			<dict>
-				<key>LastSwiftUpdateCheck</key>
-				<string>0700</string>
-				<key>LastUpgradeCheck</key>
-				<string>0700</string>
-			</dict>
-			<key>buildConfigurationList</key>
-			<string>2D8E8EC45A3A1A1D94AE762CB5028504</string>
-			<key>compatibilityVersion</key>
-			<string>Xcode 3.2</string>
-			<key>developmentRegion</key>
-			<string>English</string>
-			<key>hasScannedForEncodings</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXProject</string>
-			<key>knownRegions</key>
-			<array>
-				<string>en</string>
-			</array>
-			<key>mainGroup</key>
-			<string>7DB346D0F39D3F0E887471402A8071AB</string>
-			<key>productRefGroup</key>
-			<string>23F7B7F83C7E7659EB3C6AC863D0B48F</string>
-			<key>projectDirPath</key>
-			<string></string>
-			<key>projectReferences</key>
-			<array/>
-			<key>projectRoot</key>
-			<string></string>
-			<key>targets</key>
-			<array>
-				<string>9C3F0233A73E8C4C72DB195448364B1A</string>
-				<string>48E0E681EA37BECAB706484235812625</string>
-				<string>6FD46A35146872407E9110AF985EA7C2</string>
-			</array>
-		</dict>
-		<key>D50754682BA998C6003BA689422B13BF</key>
-		<dict>
-			<key>fileRef</key>
-			<string>B68F1116DA816987B8DCFBF7B3F7CA91</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>D7501D5AF8E67300A4089632FCC0D6FB</key>
-		<dict>
-			<key>fileRef</key>
-			<string>C928F7898221506DD947C2A900E3761B</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>D7BF4C322B7C741C75BA605AE8A52E75</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>28CFBB2E38BDA53B940498FF3DF1B434</string>
-				<string>83E2994BB413DCC3F5DC7745D81D4F2F</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Targets Support Files</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>DA7438DDEA385F943802C73B6E408927</key>
-		<dict>
-			<key>fileRef</key>
-			<string>6E7E5AF37923BFA48D6994B9BFC6535F</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>E185032356DA6E2DD628D9F91207696E</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>wrapper.framework</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>Pods_MZCroppableView_Tests.framework</string>
-			<key>path</key>
-			<string>Pods_MZCroppableView_Tests.framework</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>E32AD3AA270BE533EC2B212851A47A88</key>
-		<dict>
-			<key>fileRef</key>
-			<string>235018DCA3245A821866011D47069384</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>E4D9C1261CCBFCD3626A92500EC67CAC</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>CF578533DF09BBB5233C77F7203A70E1</string>
-			</array>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>EA6E59F1CEE3EF7D246DFB068F323837</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>MZCroppableView.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>EFD8E95164C68280BA82DF21936A27B6</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.script.sh</string>
-			<key>path</key>
-			<string>Pods-MZCroppableView_Tests-resources.sh</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>F47A0FADD8D5C4F84F76804B7831C530</key>
-		<dict>
-			<key>fileRef</key>
-			<string>C8D5C944514AFCFFB3DBB739A66536C5</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>F64B8B7189CBE6028FBEA56C90AC539B</key>
-		<dict>
-			<key>fileRef</key>
-			<string>96F90D6618FC9A88D8CD442C7AD3D26D</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>F74967903D7A005A62830A703694A03B</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>347DD69E8A223F1110CF96A1C863D76E</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string>iPhone Developer</string>
-				<key>CURRENT_PROJECT_VERSION</key>
-				<string>1</string>
-				<key>DEFINES_MODULE</key>
-				<string>YES</string>
-				<key>DYLIB_COMPATIBILITY_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_CURRENT_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_INSTALL_NAME_BASE</key>
-				<string>@rpath</string>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>INFOPLIST_FILE</key>
-				<string>Target Support Files/Pods-MZCroppableView_Example/Info.plist</string>
-				<key>INSTALL_PATH</key>
-				<string>$(LOCAL_LIBRARY_DIR)/Frameworks</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.3</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<array>
-					<string>$(inherited)</string>
-					<string>@executable_path/Frameworks</string>
-					<string>@loader_path/Frameworks</string>
-				</array>
-				<key>MACH_O_TYPE</key>
-				<string>staticlib</string>
-				<key>MODULEMAP_FILE</key>
-				<string>Target Support Files/Pods-MZCroppableView_Example/Pods-MZCroppableView_Example.modulemap</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>NO</string>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>OTHER_LIBTOOLFLAGS</key>
-				<string></string>
-				<key>PODS_ROOT</key>
-				<string>$(SRCROOT)</string>
-				<key>PRODUCT_NAME</key>
-				<string>Pods_MZCroppableView_Example</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>TARGETED_DEVICE_FAMILY</key>
-				<string>1,2</string>
-				<key>VERSIONING_SYSTEM</key>
-				<string>apple-generic</string>
-				<key>VERSION_INFO_PREFIX</key>
-				<string></string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>F929F37A475B5834819CE9C4C73452F9</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>42F899D3C6424EB59016A19CD968CAB3</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>MZCroppableView</string>
-			<key>path</key>
-			<string>MZCroppableView</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>FAA1CB35A757793C1C153DA0804DE5C1</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXTargetDependency</string>
-			<key>name</key>
-			<string>MZCroppableView</string>
-			<key>target</key>
-			<string>9C3F0233A73E8C4C72DB195448364B1A</string>
-			<key>targetProxy</key>
-			<string>8EACCC9EEBD0009CEED550705D97DFB2</string>
-		</dict>
-	</dict>
-	<key>rootObject</key>
-	<string>D41D8CD98F00B204E9800998ECF8427E</string>
-</dict>
-</plist>
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		055958D720C40D16CE53A949DFC69C2B /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B63C6A64CF66340668996F78DA6BB482 /* UIKit.framework */; };
+		4F2F3941A6B1E0E53087123A712ABB01 /* Pods-MZCroppableView_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 96F90D6618FC9A88D8CD442C7AD3D26D /* Pods-MZCroppableView_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		546CA494CB62A19630D50795740B3782 /* MZCroppableView-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 2F294C9440BE1EA649C3094F0CC9F8F9 /* MZCroppableView-dummy.m */; };
+		5B6E7A4D0BF611FEE50B8B8A9E89567C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D88AAE1F92055A60CC2FC970D7D34634 /* Foundation.framework */; };
+		6D932DA21691AD01BDC95296A0B949E0 /* UIBezierPath-MZPoints.m in Sources */ = {isa = PBXBuildFile; fileRef = 6C195544E7A3BEFC59E96B68E97B016B /* UIBezierPath-MZPoints.m */; settings = {COMPILER_FLAGS = "-w -Xanalyzer -analyzer-disable-all-checks"; }; };
+		9C427924A0579BE82695105554604365 /* Pods-MZCroppableView_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 5FFE1B6088D8004469E3D41E33EB9077 /* Pods-MZCroppableView_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		B0D1EC4F61E6F00343D53EAF2670E701 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D88AAE1F92055A60CC2FC970D7D34634 /* Foundation.framework */; };
+		B44344C0FDB85CBABEC1A49231750AAD /* MZCroppableView-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = A16EFE0628354CE6159E0D42AE427B10 /* MZCroppableView-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C05361A44E05CBCCBEB9E817DBE6A1C7 /* Pods-MZCroppableView_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = C8D5C944514AFCFFB3DBB739A66536C5 /* Pods-MZCroppableView_Tests-dummy.m */; };
+		CD9EB485EE2DE2A5F84DF905A2A8E403 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D88AAE1F92055A60CC2FC970D7D34634 /* Foundation.framework */; };
+		CE24CCEFC7006A90216E75E4E06939FF /* UIBezierPath-MZPoints.h in Headers */ = {isa = PBXBuildFile; fileRef = CF13ADA7A3A2C87AC773621F40B78970 /* UIBezierPath-MZPoints.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E75478D4E1297663AC9118649745AA12 /* MZCroppableView.h in Headers */ = {isa = PBXBuildFile; fileRef = B72FD424DC0CA192E8F89540E616F2C7 /* MZCroppableView.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E9B768E28FD5E9B90E0CBF95B9EE682D /* Pods-MZCroppableView_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = AEC35FEECF6A8559BB3657A0989C24B5 /* Pods-MZCroppableView_Example-dummy.m */; };
+		EE71234C38A2ED09929166D8B72D56B4 /* MZCroppableView.m in Sources */ = {isa = PBXBuildFile; fileRef = E5E28F78D4073CB0A6316CBF59A06D65 /* MZCroppableView.m */; settings = {COMPILER_FLAGS = "-w -Xanalyzer -analyzer-disable-all-checks"; }; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		12A75DBDF6FBFDEF7A9BE6EC514AE698 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = B617A8B93D782675332F15A4C91D61C4;
+			remoteInfo = MZCroppableView;
+		};
+		3BB14BED42853CB77846FA315F94F5FC /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = B617A8B93D782675332F15A4C91D61C4;
+			remoteInfo = MZCroppableView;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		0E7291F6555B2EB6F661CBBE1EEB797D /* Pods-MZCroppableView_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-MZCroppableView_Example-frameworks.sh"; sourceTree = "<group>"; };
+		2F294C9440BE1EA649C3094F0CC9F8F9 /* MZCroppableView-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "MZCroppableView-dummy.m"; sourceTree = "<group>"; };
+		2F3239167A86F4FD02997465FAB02839 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		305354A484160B050AE229F6387AC14C /* Pods-MZCroppableView_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MZCroppableView_Tests.release.xcconfig"; sourceTree = "<group>"; };
+		347DD69E8A223F1110CF96A1C863D76E /* Pods-MZCroppableView_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MZCroppableView_Example.release.xcconfig"; sourceTree = "<group>"; };
+		3C0CB1A37CFEAC388EC6B9888DEA5982 /* Pods-MZCroppableView_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-MZCroppableView_Tests.modulemap"; sourceTree = "<group>"; };
+		4243B7756CA3E3E76176A8FAE4D7154A /* Pods-MZCroppableView_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-MZCroppableView_Example.modulemap"; sourceTree = "<group>"; };
+		453DE7214A68C24B367498733E4FE0D1 /* Pods-MZCroppableView_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-MZCroppableView_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
+		463CB890D86986F1A66E1E50D7C8EB3C /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5FFE1B6088D8004469E3D41E33EB9077 /* Pods-MZCroppableView_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-MZCroppableView_Tests-umbrella.h"; sourceTree = "<group>"; };
+		6C195544E7A3BEFC59E96B68E97B016B /* UIBezierPath-MZPoints.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIBezierPath-MZPoints.m"; path = "MZCroppableView/Classes/UIBezierPath-MZPoints.m"; sourceTree = "<group>"; };
+		786B339617CB67B70C88DCB5AC39B9BB /* Pods-MZCroppableView_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-MZCroppableView_Tests-frameworks.sh"; sourceTree = "<group>"; };
+		7D8BA6A4BAF2BEA6CC353C99799A89EC /* MZCroppableView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = MZCroppableView.framework; path = MZCroppableView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		7EFCE6D3373E7928457D8730FD875D60 /* Pods-MZCroppableView_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MZCroppableView_Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		88118B30510C71D5BF6BE77DB21ECEDA /* MZCroppableView.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MZCroppableView.xcconfig; sourceTree = "<group>"; };
+		8DC7872A1117AA9429CC16EC66886C1A /* Pods-MZCroppableView_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-MZCroppableView_Example-resources.sh"; sourceTree = "<group>"; };
+		911204785A91FF8C9E8D65A5E476BF47 /* Pods-MZCroppableView_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-MZCroppableView_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		912003DBBACB3B31F92B9D59A0EDAD76 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		913E24A53AA6078A743338407F08BDE2 /* Pods_MZCroppableView_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_MZCroppableView_Tests.framework; path = "Pods-MZCroppableView_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		96F90D6618FC9A88D8CD442C7AD3D26D /* Pods-MZCroppableView_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-MZCroppableView_Example-umbrella.h"; sourceTree = "<group>"; };
+		9A2C3BBAAB6899A78C1F2D6D6C92A91C /* Pods-MZCroppableView_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MZCroppableView_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
+		A16EFE0628354CE6159E0D42AE427B10 /* MZCroppableView-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MZCroppableView-umbrella.h"; sourceTree = "<group>"; };
+		ABD507D1DB671A0B207013F8F36A1F8E /* MZCroppableView.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = MZCroppableView.modulemap; sourceTree = "<group>"; };
+		AEC35FEECF6A8559BB3657A0989C24B5 /* Pods-MZCroppableView_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MZCroppableView_Example-dummy.m"; sourceTree = "<group>"; };
+		B63C6A64CF66340668996F78DA6BB482 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
+		B72FD424DC0CA192E8F89540E616F2C7 /* MZCroppableView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MZCroppableView.h; path = MZCroppableView/Classes/MZCroppableView.h; sourceTree = "<group>"; };
+		B8375C4A7BE44FE6C779DC0C4194BE75 /* MZCroppableView-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MZCroppableView-prefix.pch"; sourceTree = "<group>"; };
+		BB98CF8364179060B05DB1CCECB22F50 /* Pods-MZCroppableView_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MZCroppableView_Example-acknowledgements.plist"; sourceTree = "<group>"; };
+		C0C48DB30D45B8202F14C59153279BE6 /* Pods-MZCroppableView_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MZCroppableView_Example.debug.xcconfig"; sourceTree = "<group>"; };
+		C8D5C944514AFCFFB3DBB739A66536C5 /* Pods-MZCroppableView_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MZCroppableView_Tests-dummy.m"; sourceTree = "<group>"; };
+		CF13ADA7A3A2C87AC773621F40B78970 /* UIBezierPath-MZPoints.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIBezierPath-MZPoints.h"; path = "MZCroppableView/Classes/UIBezierPath-MZPoints.h"; sourceTree = "<group>"; };
+		D1580ABFC93E8B413EED293711E95FC3 /* Pods_MZCroppableView_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_MZCroppableView_Example.framework; path = "Pods-MZCroppableView_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D88AAE1F92055A60CC2FC970D7D34634 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		E5E28F78D4073CB0A6316CBF59A06D65 /* MZCroppableView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MZCroppableView.m; path = MZCroppableView/Classes/MZCroppableView.m; sourceTree = "<group>"; };
+		EFD8E95164C68280BA82DF21936A27B6 /* Pods-MZCroppableView_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-MZCroppableView_Tests-resources.sh"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		18D2068D489389757E460263F322301C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B0D1EC4F61E6F00343D53EAF2670E701 /* Foundation.framework in Frameworks */,
+				055958D720C40D16CE53A949DFC69C2B /* UIKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2FB0CB28CACD8A49745CEDDD21C989E2 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5B6E7A4D0BF611FEE50B8B8A9E89567C /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		33B1736ADB8CC6D12A14B1DF78E11A7C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CD9EB485EE2DE2A5F84DF905A2A8E403 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		28CFBB2E38BDA53B940498FF3DF1B434 /* Pods-MZCroppableView_Example */ = {
+			isa = PBXGroup;
+			children = (
+				2F3239167A86F4FD02997465FAB02839 /* Info.plist */,
+				4243B7756CA3E3E76176A8FAE4D7154A /* Pods-MZCroppableView_Example.modulemap */,
+				453DE7214A68C24B367498733E4FE0D1 /* Pods-MZCroppableView_Example-acknowledgements.markdown */,
+				BB98CF8364179060B05DB1CCECB22F50 /* Pods-MZCroppableView_Example-acknowledgements.plist */,
+				AEC35FEECF6A8559BB3657A0989C24B5 /* Pods-MZCroppableView_Example-dummy.m */,
+				0E7291F6555B2EB6F661CBBE1EEB797D /* Pods-MZCroppableView_Example-frameworks.sh */,
+				8DC7872A1117AA9429CC16EC66886C1A /* Pods-MZCroppableView_Example-resources.sh */,
+				96F90D6618FC9A88D8CD442C7AD3D26D /* Pods-MZCroppableView_Example-umbrella.h */,
+				C0C48DB30D45B8202F14C59153279BE6 /* Pods-MZCroppableView_Example.debug.xcconfig */,
+				347DD69E8A223F1110CF96A1C863D76E /* Pods-MZCroppableView_Example.release.xcconfig */,
+			);
+			name = "Pods-MZCroppableView_Example";
+			path = "Target Support Files/Pods-MZCroppableView_Example";
+			sourceTree = "<group>";
+		};
+		433CD3331B6C3787F473C941B61FC68F /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				438B396F6B4147076630CAEFE34282C1 /* iOS */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		438B396F6B4147076630CAEFE34282C1 /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				D88AAE1F92055A60CC2FC970D7D34634 /* Foundation.framework */,
+				B63C6A64CF66340668996F78DA6BB482 /* UIKit.framework */,
+			);
+			name = iOS;
+			sourceTree = "<group>";
+		};
+		450B54927115AB79066E5A855104A684 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				8B6DF7888ACC3A442C581AAC270925AB /* MZCroppableView */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		4E56CEAE6254E8A0FD9CD0FBD65816CB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				7D8BA6A4BAF2BEA6CC353C99799A89EC /* MZCroppableView.framework */,
+				D1580ABFC93E8B413EED293711E95FC3 /* Pods_MZCroppableView_Example.framework */,
+				913E24A53AA6078A743338407F08BDE2 /* Pods_MZCroppableView_Tests.framework */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		7DB346D0F39D3F0E887471402A8071AB = {
+			isa = PBXGroup;
+			children = (
+				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
+				433CD3331B6C3787F473C941B61FC68F /* Frameworks */,
+				450B54927115AB79066E5A855104A684 /* Pods */,
+				4E56CEAE6254E8A0FD9CD0FBD65816CB /* Products */,
+				D7BF4C322B7C741C75BA605AE8A52E75 /* Targets Support Files */,
+			);
+			sourceTree = "<group>";
+		};
+		83E2994BB413DCC3F5DC7745D81D4F2F /* Pods-MZCroppableView_Tests */ = {
+			isa = PBXGroup;
+			children = (
+				463CB890D86986F1A66E1E50D7C8EB3C /* Info.plist */,
+				3C0CB1A37CFEAC388EC6B9888DEA5982 /* Pods-MZCroppableView_Tests.modulemap */,
+				911204785A91FF8C9E8D65A5E476BF47 /* Pods-MZCroppableView_Tests-acknowledgements.markdown */,
+				9A2C3BBAAB6899A78C1F2D6D6C92A91C /* Pods-MZCroppableView_Tests-acknowledgements.plist */,
+				C8D5C944514AFCFFB3DBB739A66536C5 /* Pods-MZCroppableView_Tests-dummy.m */,
+				786B339617CB67B70C88DCB5AC39B9BB /* Pods-MZCroppableView_Tests-frameworks.sh */,
+				EFD8E95164C68280BA82DF21936A27B6 /* Pods-MZCroppableView_Tests-resources.sh */,
+				5FFE1B6088D8004469E3D41E33EB9077 /* Pods-MZCroppableView_Tests-umbrella.h */,
+				7EFCE6D3373E7928457D8730FD875D60 /* Pods-MZCroppableView_Tests.debug.xcconfig */,
+				305354A484160B050AE229F6387AC14C /* Pods-MZCroppableView_Tests.release.xcconfig */,
+			);
+			name = "Pods-MZCroppableView_Tests";
+			path = "Target Support Files/Pods-MZCroppableView_Tests";
+			sourceTree = "<group>";
+		};
+		89E78A791C9D83E895F65059DEB847A1 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				912003DBBACB3B31F92B9D59A0EDAD76 /* Info.plist */,
+				ABD507D1DB671A0B207013F8F36A1F8E /* MZCroppableView.modulemap */,
+				88118B30510C71D5BF6BE77DB21ECEDA /* MZCroppableView.xcconfig */,
+				2F294C9440BE1EA649C3094F0CC9F8F9 /* MZCroppableView-dummy.m */,
+				B8375C4A7BE44FE6C779DC0C4194BE75 /* MZCroppableView-prefix.pch */,
+				A16EFE0628354CE6159E0D42AE427B10 /* MZCroppableView-umbrella.h */,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/MZCroppableView";
+			sourceTree = "<group>";
+		};
+		8B6DF7888ACC3A442C581AAC270925AB /* MZCroppableView */ = {
+			isa = PBXGroup;
+			children = (
+				B72FD424DC0CA192E8F89540E616F2C7 /* MZCroppableView.h */,
+				E5E28F78D4073CB0A6316CBF59A06D65 /* MZCroppableView.m */,
+				CF13ADA7A3A2C87AC773621F40B78970 /* UIBezierPath-MZPoints.h */,
+				6C195544E7A3BEFC59E96B68E97B016B /* UIBezierPath-MZPoints.m */,
+				89E78A791C9D83E895F65059DEB847A1 /* Support Files */,
+			);
+			name = MZCroppableView;
+			path = MZCroppableView;
+			sourceTree = "<group>";
+		};
+		D7BF4C322B7C741C75BA605AE8A52E75 /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				28CFBB2E38BDA53B940498FF3DF1B434 /* Pods-MZCroppableView_Example */,
+				83E2994BB413DCC3F5DC7745D81D4F2F /* Pods-MZCroppableView_Tests */,
+			);
+			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		62A94FDAEAE95D700015C304F5D0D5BC /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4F2F3941A6B1E0E53087123A712ABB01 /* Pods-MZCroppableView_Example-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		76F4C8AAF310A74B115DF3615C10A879 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9C427924A0579BE82695105554604365 /* Pods-MZCroppableView_Tests-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		77E1B66F3DC41E2A9164B0D67F9EA2EA /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B44344C0FDB85CBABEC1A49231750AAD /* MZCroppableView-umbrella.h in Headers */,
+				E75478D4E1297663AC9118649745AA12 /* MZCroppableView.h in Headers */,
+				CE24CCEFC7006A90216E75E4E06939FF /* UIBezierPath-MZPoints.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		596E73B028E2652AED59B086E1ECE7DE /* Pods-MZCroppableView_Example */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F5C48523ECB1945AA30637CE8EAAFEBD /* Build configuration list for PBXNativeTarget "Pods-MZCroppableView_Example" */;
+			buildPhases = (
+				9FF3A6B9350F8EF3AA3E147002E372B7 /* Sources */,
+				2FB0CB28CACD8A49745CEDDD21C989E2 /* Frameworks */,
+				62A94FDAEAE95D700015C304F5D0D5BC /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				EDC10CA7E8A45936E21A5457A86E4EBB /* PBXTargetDependency */,
+			);
+			name = "Pods-MZCroppableView_Example";
+			productName = "Pods-MZCroppableView_Example";
+			productReference = D1580ABFC93E8B413EED293711E95FC3 /* Pods_MZCroppableView_Example.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		88BCB0E553D5EBEE6A31AD3E509D4514 /* Pods-MZCroppableView_Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 728A8D69E7A017BB1D539664231955B6 /* Build configuration list for PBXNativeTarget "Pods-MZCroppableView_Tests" */;
+			buildPhases = (
+				DFC1BC9556EF7F932D2E0B6C999B0A0A /* Sources */,
+				33B1736ADB8CC6D12A14B1DF78E11A7C /* Frameworks */,
+				76F4C8AAF310A74B115DF3615C10A879 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				3EA4EDFD9179C93CF858C893563069E6 /* PBXTargetDependency */,
+			);
+			name = "Pods-MZCroppableView_Tests";
+			productName = "Pods-MZCroppableView_Tests";
+			productReference = 913E24A53AA6078A743338407F08BDE2 /* Pods_MZCroppableView_Tests.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		B617A8B93D782675332F15A4C91D61C4 /* MZCroppableView */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5D4009C5D60F94E7D7A8C391C9D8F98D /* Build configuration list for PBXNativeTarget "MZCroppableView" */;
+			buildPhases = (
+				14725AF0047F79EE11292D815A35BFFD /* Sources */,
+				18D2068D489389757E460263F322301C /* Frameworks */,
+				77E1B66F3DC41E2A9164B0D67F9EA2EA /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MZCroppableView;
+			productName = MZCroppableView;
+			productReference = 7D8BA6A4BAF2BEA6CC353C99799A89EC /* MZCroppableView.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D41D8CD98F00B204E9800998ECF8427E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0830;
+				LastUpgradeCheck = 0700;
+			};
+			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
+			productRefGroup = 4E56CEAE6254E8A0FD9CD0FBD65816CB /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				B617A8B93D782675332F15A4C91D61C4 /* MZCroppableView */,
+				596E73B028E2652AED59B086E1ECE7DE /* Pods-MZCroppableView_Example */,
+				88BCB0E553D5EBEE6A31AD3E509D4514 /* Pods-MZCroppableView_Tests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		14725AF0047F79EE11292D815A35BFFD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				546CA494CB62A19630D50795740B3782 /* MZCroppableView-dummy.m in Sources */,
+				EE71234C38A2ED09929166D8B72D56B4 /* MZCroppableView.m in Sources */,
+				6D932DA21691AD01BDC95296A0B949E0 /* UIBezierPath-MZPoints.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9FF3A6B9350F8EF3AA3E147002E372B7 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E9B768E28FD5E9B90E0CBF95B9EE682D /* Pods-MZCroppableView_Example-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DFC1BC9556EF7F932D2E0B6C999B0A0A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C05361A44E05CBCCBEB9E817DBE6A1C7 /* Pods-MZCroppableView_Tests-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		3EA4EDFD9179C93CF858C893563069E6 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = MZCroppableView;
+			target = B617A8B93D782675332F15A4C91D61C4 /* MZCroppableView */;
+			targetProxy = 3BB14BED42853CB77846FA315F94F5FC /* PBXContainerItemProxy */;
+		};
+		EDC10CA7E8A45936E21A5457A86E4EBB /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = MZCroppableView;
+			target = B617A8B93D782675332F15A4C91D61C4 /* MZCroppableView */;
+			targetProxy = 12A75DBDF6FBFDEF7A9BE6EC514AE698 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		717E77604BFBB04BEAF56608A1CB2EDE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGNING_REQUIRED = NO;
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_RELEASE=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				PROVISIONING_PROFILE_SPECIFIER = NO_SIGNING/;
+				STRIP_INSTALLED_PRODUCT = NO;
+				SYMROOT = "${SRCROOT}/../build";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		76A7C5ED453CF23D6D26CD236162F4ED /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = C0C48DB30D45B8202F14C59153279BE6 /* Pods-MZCroppableView_Example.debug.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-MZCroppableView_Example/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-MZCroppableView_Example/Pods-MZCroppableView_Example.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_MZCroppableView_Example;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		A6A03C9B1314C05BD3C2FBD3F65EDF83 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGNING_REQUIRED = NO;
+				COPY_PHASE_STRIP = NO;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_DEBUG=1",
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				ONLY_ACTIVE_ARCH = YES;
+				PROVISIONING_PROFILE_SPECIFIER = NO_SIGNING/;
+				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Debug;
+		};
+		BE07B582A6B38C038F9BFA111F5FD382 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 7EFCE6D3373E7928457D8730FD875D60 /* Pods-MZCroppableView_Tests.debug.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-MZCroppableView_Tests/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-MZCroppableView_Tests/Pods-MZCroppableView_Tests.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_MZCroppableView_Tests;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		C33FE0EE485752414DD46087A4F75BBA /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 305354A484160B050AE229F6387AC14C /* Pods-MZCroppableView_Tests.release.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-MZCroppableView_Tests/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-MZCroppableView_Tests/Pods-MZCroppableView_Tests.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_MZCroppableView_Tests;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		C75D919860445D766CAC9D7C42A3DEF6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 88118B30510C71D5BF6BE77DB21ECEDA /* MZCroppableView.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/MZCroppableView/MZCroppableView-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/MZCroppableView/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/MZCroppableView/MZCroppableView.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_NAME = MZCroppableView;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		D2C4CF104F4DDA7FD5964BAC691137B5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 347DD69E8A223F1110CF96A1C863D76E /* Pods-MZCroppableView_Example.release.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-MZCroppableView_Example/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-MZCroppableView_Example/Pods-MZCroppableView_Example.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_MZCroppableView_Example;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		ED5B6E43250F11AA97E3B03F0615EBE0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 88118B30510C71D5BF6BE77DB21ECEDA /* MZCroppableView.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/MZCroppableView/MZCroppableView-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/MZCroppableView/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/MZCroppableView/MZCroppableView.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				PRODUCT_NAME = MZCroppableView;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A6A03C9B1314C05BD3C2FBD3F65EDF83 /* Debug */,
+				717E77604BFBB04BEAF56608A1CB2EDE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5D4009C5D60F94E7D7A8C391C9D8F98D /* Build configuration list for PBXNativeTarget "MZCroppableView" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				ED5B6E43250F11AA97E3B03F0615EBE0 /* Debug */,
+				C75D919860445D766CAC9D7C42A3DEF6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		728A8D69E7A017BB1D539664231955B6 /* Build configuration list for PBXNativeTarget "Pods-MZCroppableView_Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BE07B582A6B38C038F9BFA111F5FD382 /* Debug */,
+				C33FE0EE485752414DD46087A4F75BBA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F5C48523ECB1945AA30637CE8EAAFEBD /* Build configuration list for PBXNativeTarget "Pods-MZCroppableView_Example" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				76A7C5ED453CF23D6D26CD236162F4ED /* Debug */,
+				D2C4CF104F4DDA7FD5964BAC691137B5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+}

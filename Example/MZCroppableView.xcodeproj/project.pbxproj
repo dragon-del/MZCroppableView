@@ -21,10 +21,8 @@
 		6003F5BA195388D20070C39A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6003F5B8195388D20070C39A /* InfoPlist.strings */; };
 		6003F5BC195388D20070C39A /* Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6003F5BB195388D20070C39A /* Tests.m */; };
 		873B8AEB1B1F5CCA007FD442 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 873B8AEA1B1F5CCA007FD442 /* Main.storyboard */; };
-		C606B55F54C1443C16F4B094 /* Pods_MZCroppableView_Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8225ABF783F95E87D5AD3FAB /* Pods_MZCroppableView_Tests.framework */; };
 		DA3B90F81CDCA974001B69E7 /* MZResultViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DA3B90F71CDCA974001B69E7 /* MZResultViewController.m */; };
 		DA3B90FA1CDCB042001B69E7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DA3B90F91CDCB042001B69E7 /* LaunchScreen.storyboard */; };
-		FDE371CC076CA415A797898E /* Pods_MZCroppableView_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8C8EEFB2115FAA493D103A98 /* Pods_MZCroppableView_Example.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,7 +38,6 @@
 /* Begin PBXFileReference section */
 		040D4C28B9503A4E4FF4DF83 /* MZCroppableView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = MZCroppableView.podspec; path = ../MZCroppableView.podspec; sourceTree = "<group>"; };
 		1666A037D979409B1479F2F7 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		30107882715F1762A25BE057 /* Pods-MZCroppableView_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MZCroppableView_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-MZCroppableView_Tests/Pods-MZCroppableView_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* MZCroppableView_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MZCroppableView_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6003F58F195388D20070C39A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -61,15 +58,10 @@
 		6003F5BB195388D20070C39A /* Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Tests.m; sourceTree = "<group>"; };
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
 		63308B07BAD330928DCEF6D2 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		8225ABF783F95E87D5AD3FAB /* Pods_MZCroppableView_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MZCroppableView_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
-		8C8EEFB2115FAA493D103A98 /* Pods_MZCroppableView_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MZCroppableView_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		ACE18F6223E5995CB0CD8124 /* Pods-MZCroppableView_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MZCroppableView_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-MZCroppableView_Example/Pods-MZCroppableView_Example.release.xcconfig"; sourceTree = "<group>"; };
-		AE6DE525703D443EE897E089 /* Pods-MZCroppableView_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MZCroppableView_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MZCroppableView_Tests/Pods-MZCroppableView_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		DA3B90F61CDCA974001B69E7 /* MZResultViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MZResultViewController.h; sourceTree = "<group>"; };
 		DA3B90F71CDCA974001B69E7 /* MZResultViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MZResultViewController.m; sourceTree = "<group>"; };
 		DA3B90F91CDCB042001B69E7 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
-		E29788A128B5E794BFF89D21 /* Pods-MZCroppableView_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MZCroppableView_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MZCroppableView_Example/Pods-MZCroppableView_Example.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,7 +72,6 @@
 				6003F590195388D20070C39A /* CoreGraphics.framework in Frameworks */,
 				6003F592195388D20070C39A /* UIKit.framework in Frameworks */,
 				6003F58E195388D20070C39A /* Foundation.framework in Frameworks */,
-				FDE371CC076CA415A797898E /* Pods_MZCroppableView_Example.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -91,7 +82,6 @@
 				6003F5B0195388D20070C39A /* XCTest.framework in Frameworks */,
 				6003F5B2195388D20070C39A /* UIKit.framework in Frameworks */,
 				6003F5B1195388D20070C39A /* Foundation.framework in Frameworks */,
-				C606B55F54C1443C16F4B094 /* Pods_MZCroppableView_Tests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -106,7 +96,6 @@
 				6003F5B5195388D20070C39A /* Tests */,
 				6003F58C195388D20070C39A /* Frameworks */,
 				6003F58B195388D20070C39A /* Products */,
-				D8510C8FED09D4E20FDA46FC /* Pods */,
 			);
 			sourceTree = "<group>";
 		};
@@ -126,8 +115,6 @@
 				6003F58F195388D20070C39A /* CoreGraphics.framework */,
 				6003F591195388D20070C39A /* UIKit.framework */,
 				6003F5AF195388D20070C39A /* XCTest.framework */,
-				8C8EEFB2115FAA493D103A98 /* Pods_MZCroppableView_Example.framework */,
-				8225ABF783F95E87D5AD3FAB /* Pods_MZCroppableView_Tests.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -190,17 +177,6 @@
 			name = "Podspec Metadata";
 			sourceTree = "<group>";
 		};
-		D8510C8FED09D4E20FDA46FC /* Pods */ = {
-			isa = PBXGroup;
-			children = (
-				E29788A128B5E794BFF89D21 /* Pods-MZCroppableView_Example.debug.xcconfig */,
-				ACE18F6223E5995CB0CD8124 /* Pods-MZCroppableView_Example.release.xcconfig */,
-				AE6DE525703D443EE897E089 /* Pods-MZCroppableView_Tests.debug.xcconfig */,
-				30107882715F1762A25BE057 /* Pods-MZCroppableView_Tests.release.xcconfig */,
-			);
-			name = Pods;
-			sourceTree = "<group>";
-		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -208,12 +184,9 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 6003F5BF195388D20070C39A /* Build configuration list for PBXNativeTarget "MZCroppableView_Example" */;
 			buildPhases = (
-				73920035344B9B2B9C6B42B2 /* Check Pods Manifest.lock */,
 				6003F586195388D20070C39A /* Sources */,
 				6003F587195388D20070C39A /* Frameworks */,
 				6003F588195388D20070C39A /* Resources */,
-				85D2F0043AAA2AFCC3C34816 /* Embed Pods Frameworks */,
-				20FF1143C504CBE344162F9C /* Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -228,12 +201,9 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 6003F5C2195388D20070C39A /* Build configuration list for PBXNativeTarget "MZCroppableView_Tests" */;
 			buildPhases = (
-				252BD4C7AFE099314A5AB84A /* Check Pods Manifest.lock */,
 				6003F5AA195388D20070C39A /* Sources */,
 				6003F5AB195388D20070C39A /* Frameworks */,
 				6003F5AC195388D20070C39A /* Resources */,
-				CA50DE4DAFF758AA4A0AAC5F /* Embed Pods Frameworks */,
-				9972844D51A811D2A5F65A6E /* Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -255,6 +225,9 @@
 				LastUpgradeCheck = 0720;
 				ORGANIZATIONNAME = "Muhammad Zeeshan";
 				TargetAttributes = {
+					6003F589195388D20070C39A = {
+						DevelopmentTeam = MCDH2257N3;
+					};
 					6003F5AD195388D20070C39A = {
 						TestTargetID = 6003F589195388D20070C39A;
 					};
@@ -300,99 +273,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
-
-/* Begin PBXShellScriptBuildPhase section */
-		20FF1143C504CBE344162F9C /* Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "Copy Pods Resources";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-MZCroppableView_Example/Pods-MZCroppableView_Example-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		252BD4C7AFE099314A5AB84A /* Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "Check Pods Manifest.lock";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
-			showEnvVarsInLog = 0;
-		};
-		73920035344B9B2B9C6B42B2 /* Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "Check Pods Manifest.lock";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
-			showEnvVarsInLog = 0;
-		};
-		85D2F0043AAA2AFCC3C34816 /* Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "Embed Pods Frameworks";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-MZCroppableView_Example/Pods-MZCroppableView_Example-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		9972844D51A811D2A5F65A6E /* Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "Copy Pods Resources";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-MZCroppableView_Tests/Pods-MZCroppableView_Tests-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		CA50DE4DAFF758AA4A0AAC5F /* Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "Embed Pods Frameworks";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-MZCroppableView_Tests/Pods-MZCroppableView_Tests-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		6003F586195388D20070C39A /* Sources */ = {
@@ -519,10 +399,10 @@
 		};
 		6003F5C0195388D20070C39A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = E29788A128B5E794BFF89D21 /* Pods-MZCroppableView_Example.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				DEVELOPMENT_TEAM = MCDH2257N3;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "MZCroppableView/MZCroppableView-Prefix.pch";
 				INFOPLIST_FILE = "MZCroppableView/MZCroppableView-Info.plist";
@@ -535,10 +415,10 @@
 		};
 		6003F5C1195388D20070C39A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = ACE18F6223E5995CB0CD8124 /* Pods-MZCroppableView_Example.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				DEVELOPMENT_TEAM = MCDH2257N3;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "MZCroppableView/MZCroppableView-Prefix.pch";
 				INFOPLIST_FILE = "MZCroppableView/MZCroppableView-Info.plist";
@@ -551,7 +431,6 @@
 		};
 		6003F5C3195388D20070C39A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = AE6DE525703D443EE897E089 /* Pods-MZCroppableView_Tests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				FRAMEWORK_SEARCH_PATHS = (
@@ -575,7 +454,6 @@
 		};
 		6003F5C4195388D20070C39A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 30107882715F1762A25BE057 /* Pods-MZCroppableView_Tests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				FRAMEWORK_SEARCH_PATHS = (

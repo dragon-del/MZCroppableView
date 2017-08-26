@@ -1,11 +1,14 @@
+platform :ios, '8.3'
+inhibit_all_warnings!
+
+project 'MZCroppableView'
 use_frameworks!
 
-target 'MZCroppableView_Example', :exclusive => true do
-  pod 'MZCroppableView', :path => '../'
+target 'MZCroppableView_Example' do
+  pod 'MZCroppableView'
 end
 
-target 'MZCroppableView_Tests', :exclusive => true do
-  pod 'MZCroppableView', :path => '../'
-
+target 'MZCroppableView_Tests' do
+  pod 'MZCroppableView'
   
 end
